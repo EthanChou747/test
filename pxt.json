@@ -1,0 +1,15 @@
+{
+    "name": "LedDisplay",
+    "description": "Create an LED display with configurable display time on micro:bit.",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {},
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "color": "#ADD8E6",  // 淡藍色
+    "icon": ""  // 計算機圖示
+}
